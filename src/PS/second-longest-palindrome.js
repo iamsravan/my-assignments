@@ -45,7 +45,7 @@ function getSecondLongestPalindromeSubString(inputString) {
   return { maxLength, secondMaxLength, secondStart };
 }
 
-const inputString = "exercise";
+const inputString = "madam";
 const {
   start,
   maxLength,
